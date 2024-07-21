@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/creator/page": "app/creator/page.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/course/page": "app/course/page.js",
+  "/zone/page": "app/zone/page.js",
+  "/center/page": "app/center/page.js"
+}
